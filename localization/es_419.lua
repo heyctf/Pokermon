@@ -3172,7 +3172,7 @@ return {
                 }
             },
             energy = {
-                name = "Energía Usada",
+                name = "Energía usada",
                 text = {
                     "{C:attention}#1#{}/#2#",
                 }
